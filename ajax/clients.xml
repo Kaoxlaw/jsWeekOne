@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+  <client id="1">
+    <nom>Hello</nom>
+    <score>100</score>
+  </client>
+  <client id="2">
+    <nom>How</nom>
+    <score>101</score>
+  </client>
+  <client id="3">
+    <nom>Are</nom>
+    <score>102</score>
+  </client>
+</clients>
