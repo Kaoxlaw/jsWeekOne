@@ -11,6 +11,7 @@ function init() {
 function createDom() {
 
   let elDiv = document.createElement("div");
+  elDiv.setAttribute("style", "color: blue");
   let content = document.createTextNode("Hello, It's the new Div!");
   
   elDiv.appendChild(content);
